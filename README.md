@@ -1,4 +1,4 @@
-# Spreadsheet-Email-Automation
+# Spreadsheat-Email-Automation
 
 This project uses Google Apps Script to automate the process of sending personalized emails based on data in a Google Spreadsheet. The script reads the data from the spreadsheet, constructs personalized email messages, and sends them out using Gmail. This can be particularly useful for sending bulk emails, such as event invitations or newsletters, with personalized content for each recipient.
 
